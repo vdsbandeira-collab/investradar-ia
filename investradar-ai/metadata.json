@@ -1,0 +1,5 @@
+{
+  "name": "InvestRadar AI",
+  "description": "Um rastreador de portfólio de alta performance e sistema de ranking impulsionado pela IA Gemini. Carregue seus dados de ações para gerar rankings, visualizar métricas e obter insights baseados em IA.",
+  "requestFramePermissions": []
+}
